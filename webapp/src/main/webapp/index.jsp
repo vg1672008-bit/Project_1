@@ -120,7 +120,7 @@
     <div class="register-container">
 
         <h1>Create Account</h1>
-         <h5> New user Register for DevOps Learning at First Quad Tech Solution , Baner Pune , Maharastra , India.......</h5>
+         <h5>DevOps Learning at First Quad Tech Solution , Baner Pune , Maharastra , India...</h5>
         <p class="subtitle">Register to get started</p>
 
         <form>
