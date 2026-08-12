@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> New user Register for DevOps Learning at First Quad Tech Solution , Baner Pune , Maharastra , India.......</title>
     <title>Registration Form</title>
 
     <style>
@@ -121,6 +120,7 @@
     <div class="register-container">
 
         <h1>Create Account</h1>
+         <h5> New user Register for DevOps Learning at First Quad Tech Solution , Baner Pune , Maharastra , India.......</h5>
         <p class="subtitle">Register to get started</p>
 
         <form>
